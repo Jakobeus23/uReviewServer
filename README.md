@@ -1,2 +1,2 @@
 # uReviewServer
-Backend for my vue website
+Backend for my music review website :)
